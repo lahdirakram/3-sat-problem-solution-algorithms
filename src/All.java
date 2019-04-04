@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class All
+public class Main
 {
 	//==========================================
 	//	La fonction principal
